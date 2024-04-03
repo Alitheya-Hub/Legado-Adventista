@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"Title":"Bienvenidos!","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-![](https://recursos.lifeway.com/wp-content/uploads/2022/09/iStock-847575018-920x400.jpeg)
-# Bienvenidos, aquí podemos consultar todos los apuntes que vayamos haciendo:
+![](https://iebcentro.com.ar/wp-content/uploads/2017/03/biblestudies.jpg)
+# Aquí podemos consultar todos los apuntes que vayamos haciendo:
 
 Por ahora puede revisar: 
 
